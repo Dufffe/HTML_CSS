@@ -1,0 +1,39 @@
+body {
+    background-color: #e3ecef;
+}
+
+p {
+color: red;
+font-family: Arial;
+}
+
+#green {color: green;}
+
+#purple {color: purple;}
+
+#img {
+width: 50%;
+opacity: 0.5;
+}
+
+#img:hover {
+opacity: 1.0;
+}
+
+#Abschnitt {background: grey;
+color: white;
+font-weight: bold;
+font-size: 40px;}
+
+#table1
+{width: 50%;
+color: white;
+border: solid;
+border-color: silver;
+background: black;
+padding: 10px;
+}
+
+h1 {
+font-family: Arial;
+}
