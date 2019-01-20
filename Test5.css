@@ -14,11 +14,14 @@ font-family: Arial;
 #img {
 width: 50%;
 opacity: 0.5;
+border: dotted;
 }
 
 #img:hover {
 opacity: 1.0;
+border: dashed;
 }
+
 
 #Abschnitt {background: grey;
 color: white;
